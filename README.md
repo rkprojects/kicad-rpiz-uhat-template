@@ -1,4 +1,4 @@
-# KiCad template for Raspberry Pi Zero (W) uHAT
+# KiCad Board Template For Raspberry Pi Zero (W) uHAT
 
 Easy starting point for Raspberry Pi Zero (W) uHAT extension board.
 GPIO 40 Pin connector is of through hole type, board size is 65x30mm. Pi Zero or Zero W
