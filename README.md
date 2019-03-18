@@ -8,10 +8,7 @@ Please refer to [HAT Design Guidelines](https://github.com/raspberrypi/hats/blob
 
 **KiCad version: 5.0.2**  
 
-Project home page is at <https://ravikiranb.com/projects/kicad-rpiz-uhat-template/>  
-
-**Note: PCB not yet tested with fabrication.**  
-
+Project home page: <https://ravikiranb.com/projects/kicad-rpiz-uhat-template/>  
 
 ## Installing as template in KiCad on Ubuntu
 
